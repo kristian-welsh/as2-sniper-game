@@ -1,0 +1,62 @@
+level 1.swf Movie Report
+-------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          10956          10956    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0            62                   609
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+mission complete                       0             0                     0
+mission failed                         0             0                     0
+Tween 16                             181             0                     0
+Tween 14                               0             0                     0
+sniper scope rim                      75             0                     0
+Tween 12                             176             0                     0
+Tween 11                              79             0                     0
+Tween 30                               0             0                     0
+sniper scope                           0             0                   119
+stick walking                        542             0                     0
+Tween 5                               48             0                     0
+mans head                              0             0                     0
+hit area                               0             0                     0
+bullet hole                           49             0                     0
+bullet                                 0             0                   190
+M1 landscape                        1546             0                     0
+tree                                 669             0                     2
+M1 scenery                            51             0                     0
+bench                                388             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Segoe Print Bold                528    :amo
+
+ActionScript Bytes    Location
+------------------    --------
+               609    Scene 1:actions:1
+                 1    tree:Layer 1:1
+                 1    tree:Layer 1:2
+                18    bullet:Layer 2:1
+                 1    bullet:Layer 1:1
+                19    bullet:Layer 2:2
+                19    bullet:Layer 2:3
+                19    bullet:Layer 2:4
+                19    bullet:Layer 2:5
+                19    bullet:Layer 2:6
+                19    bullet:Layer 2:7
+                19    bullet:Layer 2:8
+                19    bullet:Layer 2:9
+                19    bullet:Layer 2:10
+                20    sniper scope:action script:1
+                20    sniper scope:action script:2
+                 4    sniper scope:action script:37
+                19    sniper scope:action script:38
+                56    sniper scope:action script:59
+
+
+
+

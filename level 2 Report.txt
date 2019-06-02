@@ -1,0 +1,51 @@
+level 2.swf Movie Report
+-------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1         247730         247730    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                              328            95                   715
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Tween 16                             274             0                     0
+Tween 14                               0             0                     0
+sniper scope rim                     114             0                     0
+Tween 12                             267             0                     0
+Tween 11                             119             0                     0
+Tween 30                               0             0                     0
+sniper scope                           0             0                   180
+stick walking                          0             0                     0
+Tween 5                                0             0                     0
+mans head                              0             0                     0
+bullet hole                           75             0                     0
+bullet                                 0             0                     1
+M1 landscape                           0             0                     0
+tree                                   0             0                     0
+M1 scenery                             0             0                     0
+bench                                  0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+Segoe Print Bold                799    :amo
+
+ActionScript Bytes    Location
+------------------    --------
+               715    Scene 1:actions:1
+                 1    bullet:Layer 1:1
+                30    sniper scope:action script:1
+                30    sniper scope:action script:2
+                 6    sniper scope:action script:37
+                29    sniper scope:action script:38
+                85    sniper scope:action script:59
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+sniper level 2 background copy    239028     1584800   JPEG Quality=100
+
+
+
+

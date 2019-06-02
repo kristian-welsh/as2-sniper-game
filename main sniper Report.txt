@@ -1,0 +1,177 @@
+main sniper.swf Movie Report
+-----------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          24770          24770    Scene 1 (AS 2.0 Classes Export Frame)
+      2           3665          28435    
+      3            353          28788    
+      4             48          28836    
+      5             10          28846    
+      6          79492         108338    
+      7            196         108534    
+      8            182         108716    
+      9            182         108898    
+     10            182         109080    
+     11          16085         125165    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                               42          1385                  1496
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Tween 31                               0             0                     0
+Tween 28                               0             0                     0
+Tween 27                               0             0                     0
+Tween 26                               0             0                     0
+Tween 25                               0             0                     0
+Tween 24                               0             0                     0
+Tween 23                               0             0                     0
+Symbol 1                               0             0                     0
+Tween 38                               0             0                     0
+Tween 37                               0             0                     0
+Tween 36                               0             0                     0
+Tween 35                               0             0                     0
+Tween 34                               0             0                     0
+Tween 33                               0             0                     0
+Tween 32                               0             0                     0
+Tween 29                               0             0                     0
+Tween 22                               0             0                     0
+Tween 21                               0             0                     0
+enemy_1                                0             0                     0
+Tween 20                               0             0                     0
+Tween 19                               0             0                     0
+Tween 18                               0             0                     0
+Tween 17                               0             0                     0
+Tween 15                               0             0                     0
+Tween 13                               0             0                     0
+Tween 10                               0             0                     0
+Tween 9                                0             0                     0
+enemy1                                 0             0                     0
+Tween 8                                0             0                     0
+Tween 7                                0             0                     0
+mission failed                         0             0                     0
+mission complete                       0             0                     0
+blur in-out                            0             0                     0
+Tween 6                                0             0                     0
+Tween 4                                0             0                     0
+Tween 3                                0             0                     0
+current test level                     0             0                     0
+Tween 2                                0             0                     0
+Tween 1                                0             0                     0
+level 1 target                         0             0                     0
+instructions title                    36           172                     0
+storyline                              0             0                     0
+border                                56             0                     0
+backdrop                            1627             0                     0
+title frame's border                 268             0                     0
+title frame                          268             0                     0
+title                                  0            48                     0
+instructions                           0           172                     0
+play                                   0             0                     0
+button border                        383             0                     0
+button blood 1                       349             0                     0
+NG_TYPEFACE                          866             0                     0
+NG_TYPEFACE_HIGHLIGHT                866             0                     0
+NG_Button                            819             0                     0
+NG_TANK_02                          2949             0                     0
+NG_TANK_BUTTON                       242             0                     0
+NG_TANK                                0             0                    54
+cross_bar                            248             0                     0
+bar                                   59             0                     0
+bar_mask                              59             0                     0
+3d                                    86             0                     0
+play_blink                             0             0                     0
+PLAY                                   0             0                     0
+alpha_D                               76             0                     0
+alpha_E                               51             0                     0
+alpha_L                               38             0                     0
+alpha_O                              105             0                     0
+alpha_A                               57             0                     0
+alpha_I                               34             0                     0
+alpha_N                               49             0                     0
+alpha_G                              111             0                     0
+loadED                                 0             0                     2
+Action                                 0             0                     0
+X_LOAD                               899             0                   520
+NG_AD_OBJECT_WITH_PRELOADER         2055             0                   905
+hit area                               0             0                     0
+Tween 16                             280             0                     0
+Tween 14                               0             0                     0
+sniper scope rim                     117             0                     0
+Tween 12                             273             0                     0
+Tween 11                             125             0                     0
+Tween 30                               0             0                     0
+sniper scope                           0             0                   186
+stick walking                        846             0                     0
+Tween 5                               75             0                     0
+mans head                              0             0                     0
+bullet hole                           77             0                     0
+bullet                                 0             0                   301
+M1 landscape                        2385             0                     0
+tree                                1033             0                     4
+M1 scenery                            79             0                     0
+bench                                600             0                     0
+
+
+Tweened Shapes: 840 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+karabinE. Bold                71789     12345imnos
+Brankovic Bold                 6406     ',.?Iabcdefghiklmnoprstuvwyz
+KaiTi Bold                       30    
+Segoe Print Bold                815    :amo
+
+ActionScript Bytes    Location
+------------------    --------
+                24    Scene 1:actions:1
+               851    NG_AD_OBJECT_WITH_PRELOADER:CheckLoad:1
+               486    X_LOAD:actionscript:1:No instance name assigned(Action)
+                 2    X_LOAD:actionscript:101
+                 2    loadED:OK?:40
+                32    X_LOAD:actionscript:165
+                54    NG_AD_OBJECT_WITH_PRELOADER:Ad Frame:1:No instance name assigned(NG_Button)
+                54    NG_TANK:Default Image:1:No instance name assigned(NG_TANK_BUTTON)
+               506    Scene 1:actions:2
+                21    Scene 1:main:2:instructions(instructions)
+                 2    Scene 1:actions:3
+                 2    Scene 1:actions:4
+                 2    Scene 1:actions:5
+                43    Scene 1:actions:6
+                 2    Scene 1:actions:7
+                 2    Scene 1:actions:8
+                 2    Scene 1:actions:9
+                 2    Scene 1:actions:10
+               888    Scene 1:actions:11
+                 2    tree:Layer 1:1
+                 2    tree:Layer 1:2
+                29    bullet:Layer 2:1
+                 2    bullet:Layer 1:1
+                30    bullet:Layer 2:2
+                30    bullet:Layer 2:3
+                30    bullet:Layer 2:4
+                30    bullet:Layer 2:5
+                30    bullet:Layer 2:6
+                30    bullet:Layer 2:7
+                30    bullet:Layer 2:8
+                30    bullet:Layer 2:9
+                30    bullet:Layer 2:10
+                31    sniper scope:action script:1
+                31    sniper scope:action script:2
+                 7    sniper scope:action script:37
+                30    sniper scope:action script:38
+                87    sniper scope:action script:59
+
+Event Sounds: 11KHz Mono 16 kbps MP3
+
+
+Sound name                 Bytes        Format    
+-----------------------    ---------    ----------
+gunfire                      2199        11KHz Mono 16 kbps MP3
+click                        4195        11KHz Mono 16 kbps MP3
+
+
+
+
